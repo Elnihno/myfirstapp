@@ -46,6 +46,7 @@ class _soirState extends State<soir> {
         appBar: AppBar(
           title: Text(info),
         ),
+        
         body: RaisedButton(
           child: Text('Valider'),
           onPressed: (){
